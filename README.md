@@ -1,2 +1,2 @@
 # My-Projects
-Athor - Lakshit Jain
+Author - Lakshit Jain
