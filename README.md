@@ -1,4 +1,4 @@
 # My-Projects
-Author - Lakshit Jain
+Author - Lakshit
 <br>
 This is my first Git Repositoray
